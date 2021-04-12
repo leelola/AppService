@@ -1,4 +1,4 @@
-USing Terraform init
+Using Terraform init
 terraform plan #resource
 terraform apply is to createresources
 azure service plan and azure appservice
